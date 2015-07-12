@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tutti</string>
+
+    <string name="hello_world">Tutti</string>
+    <string name="action_settings">Settings</string>
+    <color name="mustard">#FFCB74</color>
+    <color name="blue">#6DCAD7</color>
+    <color name="yellow">#FFE077</color>
+    <color name="orange">#F58B46</color>
+    <color name="red">#D73B47</color>
+    <color name="purple">#4C2230</color>
+    <color name="green">#419180</color>
+    <color name="white">#FFEED8</color>
+    <color name="pink_red">#ffee4c5f</color>
+    <string name="title_activity_concert_list">ConcertListActivity</string>
+    <string name="title_activity_load_venue">LoadVenueActivity</string>
+
+</resources>
