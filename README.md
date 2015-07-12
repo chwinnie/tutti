@@ -1,2 +1,2 @@
 # tutti
-Play music together at a concert. Change.
+Tutti helps artists play music on fans' phones at a concert.
